@@ -1,0 +1,6 @@
+{
+  "name": "Bukhara - Luxury Dining Experience",
+  "description": "High-end luxury Pakistani fine dining restaurant at Pearl Continental Bhurban, offering authentic heritage cuisine, live BBQ, and breathtaking mountain ambiance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
