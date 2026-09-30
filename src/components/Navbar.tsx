@@ -54,7 +54,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenReservation }) => {
             className="text-2xl md:text-3xl font-serif tracking-[0.25em] text-[#F4EFE6] font-bold hover:text-[#C6A15B] transition-colors uppercase"
             style={{ fontFamily: "'Playfair Display', serif" }}
           >
-            BUKHARA
+            BUKHARA RESTAURANT
           </a>
 
           {/* Zone 2: Clean text navigation links */}
@@ -102,7 +102,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenReservation }) => {
           <div className="flex flex-col gap-6">
             <div className="text-center pb-4 border-b border-[#B38A45]/20">
               <span className="text-2xl font-serif tracking-[0.3em] text-[#C6A15B] font-bold block">
-                BUKHARA
+                BUKHARA RESTAURANT
               </span>
               <span className="text-xs tracking-[0.2em] uppercase text-[#F4EFE6]/60 mt-1 block">
                 Pearl Continental Bhurban
